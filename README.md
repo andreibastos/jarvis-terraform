@@ -23,3 +23,6 @@ terraform apply
 # destruir a infraestrutura
 terraform destroy
 ```
+
+# Resultado
+![network](docs/network-topology.png)
