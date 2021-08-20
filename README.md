@@ -1,12 +1,12 @@
 # jarvis-terraform
 Jarvis com terraform
 
-# requisitos
+# Requisitos
 - instalar o `terraform`
 - baixar o `cloud.yaml` do seu `openstack`
 - baixar o `root.crt` 
 
-# executar
+# Executação
 
 ```bash
 # baixar as dependencias
